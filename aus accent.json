@@ -1,16 +1,100 @@
 {
   "data": [
     {
+      "w": "I",
+      "p": "oy"
+    },
+    {
+      "w": "a",
+      "p": "ah"
+    },
+    {
+      "w": "about",
+      "p": "eh b aw t"
+    },
+    {
       "w": "again",
       "p": "ah g eh n"
+    },
+    {
+      "w": "baby",
+      "p": "b ay b iy"
     },
     {
       "w": "basilisk",
       "p": "b ae s ae l ih s k"
     },
     {
+      "w": "been",
+      "p": "b eh n"
+    },
+    {
+      "w": "before",
+      "p": "b eh f ao r"
+    },
+    {
+      "w": "bird",
+      "p": "b uh d"
+    },
+    {
+      "w": "block",
+      "p": "b l aw k"
+    },
+    {
+      "w": "brain",
+      "p": "b r iy n"
+    },
+    {
+      "w": "but",
+      "p": "b ah d"
+    },
+    {
       "w": "can't",
-      "p": "k aa r n dx"
+      "p": "k aa r n "
+    },
+    {
+      "w": "chicken",
+      "p": "ch eh k ih n"
+    },
+    {
+      "w": "chopping",
+      "p": "ch aw p ih n"
+    },
+    {
+      "w": "chromatic",
+      "p": "k r ow m ih dx ih k"
+    },
+    {
+      "w": "confident",
+      "p": "k aa n f eh d eh n t"
+    },
+    {
+      "w": "crash",
+      "p": "k r eh sh"
+    },
+    {
+      "w": "cry",
+      "p": "k r oy"
+    },
+    {
+      "w": "deferred",
+      "p": "d eh f er d"
+    },
+    {
+      "w": "deserving",
+      "p": "d eh z er v eh ng"
+    },
+    {
+      "w": "devout",
+      "p": "d eh v aw t "
+    },
+    {
+      "w": "devoutly",
+      "p": "d eh v aw t l ey"
+    },
+    {
+      "w": "dowhn",
+      "p": "d ae aw n"
     },
     {
       "w": "enchante",
@@ -25,8 +109,36 @@
       "p": "eh v r iy"
     },
     {
+      "w": "falling",
+      "p": "f ow l ih n"
+    },
+    {
+      "w": "falter",
+      "p": "f aa l t aa"
+    },
+    {
+      "w": "feather",
+      "p": "f ey th ae "
+    },
+    {
+      "w": "feathers",
+      "p": "f ey th ae z"
+    },
+    {
+      "w": "fellow",
+      "p": "f ey l ey ow w"
+    },
+    {
       "w": "fuck",
       "p": "f ah r k"
+    },
+    {
+      "w": "ground",
+      "p": "g r ow n "
+    },
+    {
+      "w": "has",
+      "p": "hh eh s"
     },
     {
       "w": "heard",
@@ -37,24 +149,164 @@
       "p": "hh eh l ow"
     },
     {
+      "w": "hit",
+      "p": "hh ih d"
+    },
+    {
+      "w": "hurt",
+      "p": "hh eh r t"
+    },
+    {
+      "w": "hurts",
+      "p": "hh eh r d s"
+    },
+    {
+      "w": "i'm",
+      "p": "oy m"
+    },
+    {
+      "w": "im",
+      "p": "oy m"
+    },
+    {
+      "w": "in",
+      "p": "eh n"
+    },
+    {
+      "w": "into",
+      "p": "ih n t aw"
+    },
+    {
+      "w": "introvert",
+      "p": "eh n tr ow v er t"
+    },
+    {
+      "w": "it",
+      "p": "eh t"
+    },
+    {
+      "w": "it's",
+      "p": "eh t s"
+    },
+    {
+      "w": "its",
+      "p": "eh t s"
+    },
+    {
+      "w": "keep",
+      "p": "k ey p"
+    },
+    {
+      "w": "lacking",
+      "p": "l ae k eh n"
+    },
+    {
+      "w": "like",
+      "p": "l oy k"
+    },
+    {
+      "w": "me",
+      "p": "m ey"
+    },
+    {
+      "w": "mind",
+      "p": "m ay n dx"
+    },
+    {
+      "w": "my",
+      "p": "m oy"
+    },
+    {
+      "w": "neck",
+      "p": "n ih k"
+    },
+    {
+      "w": "no",
+      "p": "n ao r"
+    },
+    {
+      "w": "passion",
+      "p": "p eh sh eh n"
+    },
+    {
+      "w": "relentless",
+      "p": "r eh l eh n t l eh s"
+    },
+    {
       "w": "rule",
       "p": "r uh l"
+    },
+    {
+      "w": "running",
+      "p": "r ah n eh n"
+    },
+    {
+      "w": "shit",
+      "p": "sh iy d"
+    },
+    {
+      "w": "so",
+      "p": "s ao r"
+    },
+    {
+      "w": "soft",
+      "p": "s aw f t"
+    },
+    {
+      "w": "suppose",
+      "p": "s eh p ow z "
+    },
+    {
+      "w": "supposed",
+      "p": "s eh p ow z "
+    },
+    {
+      "w": "that",
+      "p": "dh eh d"
+    },
+    {
+      "w": "the",
+      "p": "dh ax"
     },
     {
       "w": "they",
       "p": "dh ae y"
     },
     {
+      "w": "this",
+      "p": "dh eh s"
+    },
+    {
+      "w": "time",
+      "p": "t ow ih m"
+    },
+    {
       "w": "trying",
       "p": "tr ay ih ng"
+    },
+    {
+      "w": "twisted",
+      "p": "t w iy s t ih dx"
     },
     {
       "w": "unsatisfied",
       "p": "ax n s eh t ih s f ay d"
     },
     {
+      "w": "unsure",
+      "p": "eh n sh uw"
+    },
+    {
       "w": "wire",
       "p": "w ay r"
+    },
+    {
+      "w": "wish",
+      "p": "w iy sh"
+    },
+    {
+      "w": "with",
+      "p": "w iy dh"
     },
     {
       "w": "worship",
