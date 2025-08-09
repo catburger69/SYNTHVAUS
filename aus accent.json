@@ -17,12 +17,16 @@
       "p": "ah g eh n"
     },
     {
+      "w": "anything",
+      "p": "eh n iy th eh ng"
+    },
+    {
       "w": "baby",
       "p": "b ay b iy"
     },
     {
       "w": "basilisk",
-      "p": "b ae s ae l ih s k"
+      "p": "b ae s ae l eh s k"
     },
     {
       "w": "been",
@@ -49,6 +53,10 @@
       "p": "b ah d"
     },
     {
+      "w": "can",
+      "p": "k oy n"
+    },
+    {
       "w": "can't",
       "p": "k aa r n "
     },
@@ -67,6 +75,10 @@
     {
       "w": "confident",
       "p": "k aa n f eh d eh n t"
+    },
+    {
+      "w": "could",
+      "p": "k oy d"
     },
     {
       "w": "crash",
@@ -98,7 +110,7 @@
     },
     {
       "w": "enchante",
-      "p": "aa ng sh aa ng t ey"
+      "p": "aa ng sh aa ng t ey cl"
     },
     {
       "w": "enchanté",
@@ -203,10 +215,6 @@
     {
       "w": "like",
       "p": "l oy k"
-    },
-    {
-      "w": "me",
-      "p": "m ey"
     },
     {
       "w": "mind",
