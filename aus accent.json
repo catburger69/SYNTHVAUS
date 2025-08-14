@@ -13,20 +13,44 @@
       "p": "eh b aw t"
     },
     {
+      "w": "above",
+      "p": "eh b ah v"
+    },
+    {
+      "w": "advance",
+      "p": "ae d v ae n s"
+    },
+    {
       "w": "again",
       "p": "ah g eh n"
+    },
+    {
+      "w": "all",
+      "p": "ow l"
+    },
+    {
+      "w": "and",
+      "p": "eh n d"
     },
     {
       "w": "anything",
       "p": "eh n iy th eh ng"
     },
     {
+      "w": "australia",
+      "p": "aa s t r ey l y ax"
+    },
+    {
       "w": "baby",
-      "p": "b ay b iy"
+      "p": "b ey b iy"
     },
     {
       "w": "basilisk",
       "p": "b ae s ae l eh s k"
+    },
+    {
+      "w": "be",
+      "p": "b ey"
     },
     {
       "w": "been",
@@ -54,11 +78,19 @@
     },
     {
       "w": "can",
-      "p": "k oy n"
+      "p": "k ae r n"
     },
     {
       "w": "can't",
       "p": "k aa r n "
+    },
+    {
+      "w": "canvas",
+      "p": "k eh n v eh s"
+    },
+    {
+      "w": "cause",
+      "p": "k ao r z"
     },
     {
       "w": "chicken",
@@ -78,7 +110,11 @@
     },
     {
       "w": "could",
-      "p": "k oy d"
+      "p": "k oy r d"
+    },
+    {
+      "w": "courage",
+      "p": "k ao r ih jh"
     },
     {
       "w": "crash",
@@ -89,12 +125,24 @@
       "p": "k r oy"
     },
     {
+      "w": "cut",
+      "p": "k ah d"
+    },
+    {
+      "w": "decision",
+      "p": "d eh s eh zh y eh n"
+    },
+    {
       "w": "deferred",
       "p": "d eh f er d"
     },
     {
       "w": "deserving",
       "p": "d eh z er v eh ng"
+    },
+    {
+      "w": "devoid",
+      "p": "d eh v oy d"
     },
     {
       "w": "devout",
@@ -105,8 +153,20 @@
       "p": "d eh v aw t l ey"
     },
     {
+      "w": "doll",
+      "p": "d ow l"
+    },
+    {
+      "w": "doubting",
+      "p": "d aw dx eh ng"
+    },
+    {
       "w": "dowhn",
       "p": "d ae aw n"
+    },
+    {
+      "w": "emotion",
+      "p": "eh m ow sh eh n"
     },
     {
       "w": "enchante",
@@ -117,8 +177,16 @@
       "p": "aa ng sh aa ng t ey"
     },
     {
+      "w": "even",
+      "p": "iy v eh n"
+    },
+    {
       "w": "every",
       "p": "eh v r iy"
+    },
+    {
+      "w": "everybody",
+      "p": "eh v r iy b ah d iy y"
     },
     {
       "w": "falling",
@@ -141,12 +209,32 @@
       "p": "f ey l ey ow w"
     },
     {
+      "w": "foe",
+      "p": "f aw"
+    },
+    {
+      "w": "for",
+      "p": "f ao r"
+    },
+    {
+      "w": "friend",
+      "p": "f r eh n dx"
+    },
+    {
       "w": "fuck",
       "p": "f ah r k"
     },
     {
+      "w": "fucking",
+      "p": "f ah r k eh n"
+    },
+    {
       "w": "ground",
       "p": "g r ow n "
+    },
+    {
+      "w": "guaranteed",
+      "p": "g eh r eh n d iy d"
     },
     {
       "w": "has",
@@ -186,7 +274,7 @@
     },
     {
       "w": "into",
-      "p": "ih n t aw"
+      "p": "ih n t eh"
     },
     {
       "w": "introvert",
@@ -205,6 +293,10 @@
       "p": "eh t s"
     },
     {
+      "w": "just",
+      "p": "jh ah s "
+    },
+    {
       "w": "keep",
       "p": "k ey p"
     },
@@ -213,16 +305,36 @@
       "p": "l ae k eh n"
     },
     {
+      "w": "land",
+      "p": "l ax n d"
+    },
+    {
       "w": "like",
       "p": "l oy k"
+    },
+    {
+      "w": "man",
+      "p": "m eh n"
     },
     {
       "w": "mind",
       "p": "m ay n dx"
     },
     {
+      "w": "morning",
+      "p": "m oy n ih ng"
+    },
+    {
+      "w": "motion",
+      "p": "m ow sh eh n"
+    },
+    {
       "w": "my",
-      "p": "m oy"
+      "p": "m ae ay"
+    },
+    {
+      "w": "nature",
+      "p": "n ey ch y uw"
     },
     {
       "w": "neck",
@@ -233,8 +345,24 @@
       "p": "n ao r"
     },
     {
+      "w": "on",
+      "p": "ah n"
+    },
+    {
       "w": "passion",
       "p": "p eh sh eh n"
+    },
+    {
+      "w": "perfectly",
+      "p": "p er v eh k d l iy"
+    },
+    {
+      "w": "person",
+      "p": "p eh r s eh n"
+    },
+    {
+      "w": "radient",
+      "p": "r ey d eh n t"
     },
     {
       "w": "relentless",
@@ -249,8 +377,20 @@
       "p": "r ah n eh n"
     },
     {
+      "w": "saint",
+      "p": "s ey n d"
+    },
+    {
+      "w": "shadow",
+      "p": "sh eh d ow"
+    },
+    {
       "w": "shit",
       "p": "sh iy d"
+    },
+    {
+      "w": "sinner",
+      "p": "s eh n eh"
     },
     {
       "w": "so",
@@ -259,6 +399,14 @@
     {
       "w": "soft",
       "p": "s aw f t"
+    },
+    {
+      "w": "something",
+      "p": "s ah m th eh n"
+    },
+    {
+      "w": "strains",
+      "p": "s tr eh n z"
     },
     {
       "w": "suppose",
@@ -274,7 +422,7 @@
     },
     {
       "w": "the",
-      "p": "dh ax"
+      "p": "dh eh r"
     },
     {
       "w": "they",
@@ -287,6 +435,14 @@
     {
       "w": "time",
       "p": "t ow ih m"
+    },
+    {
+      "w": "to",
+      "p": "t uw"
+    },
+    {
+      "w": "try",
+      "p": "tr oy"
     },
     {
       "w": "trying",
@@ -305,6 +461,10 @@
       "p": "eh n sh uw"
     },
     {
+      "w": "wants",
+      "p": "w ah n t s"
+    },
+    {
       "w": "wire",
       "p": "w ay r"
     },
@@ -317,8 +477,16 @@
       "p": "w iy dh"
     },
     {
+      "w": "woman",
+      "p": "w uh m eh n"
+    },
+    {
       "w": "worship",
       "p": "w eh sh ax p"
+    },
+    {
+      "w": "you",
+      "p": "y ih uw"
     }
   ]
 }
