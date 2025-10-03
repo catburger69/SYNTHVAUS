@@ -1,5 +1,7 @@
 # SYNTHVAUS
-an ongoing SynthV dictionary for an Australian accent
+an ongoing SynthV dictionary for an Australian accent. Read more about this project <a href="https://ausynthv.nekoweb.org/">on it's NekoWeb!</a>
+
+THIS PROJECT IS A WORK IN PROGRESS AND IS TEMPORARILY ON PAUSE WHILE I'M MOVING.
 # TUTORIAL
 <img width="1156" height="398" alt="image" src="https://github.com/user-attachments/assets/fe6d96b5-8960-4a00-8183-8201f4d3ff09" />
 
